@@ -5,3 +5,4 @@
 - I used Bloc as a state management
 
 
+![screenshot1](https://user-images.githubusercontent.com/100282230/158493018-1d228376-9de7-446c-9938-cb5c5223cbfd.jpeg)
